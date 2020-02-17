@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.c0617717.chunk.css",
-    "main.js": "./static/js/main.ced1b255.chunk.js",
-    "main.js.map": "./static/js/main.ced1b255.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.704836c3.js",
-    "runtime-main.js.map": "./static/js/runtime-main.704836c3.js.map",
-    "static/css/2.e498a0e2.chunk.css": "./static/css/2.e498a0e2.chunk.css",
-    "static/js/2.b9bcc424.chunk.js": "./static/js/2.b9bcc424.chunk.js",
-    "static/js/2.b9bcc424.chunk.js.map": "./static/js/2.b9bcc424.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.8a267d0846b8910cc3b97d9639736450.js": "./precache-manifest.8a267d0846b8910cc3b97d9639736450.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.e498a0e2.chunk.css.map": "./static/css/2.e498a0e2.chunk.css.map",
-    "static/css/main.c0617717.chunk.css.map": "./static/css/main.c0617717.chunk.css.map",
-    "static/js/2.b9bcc424.chunk.js.LICENSE": "./static/js/2.b9bcc424.chunk.js.LICENSE",
-    "static/media/index.css": "./static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/whereaim-2019-react/static/css/main.c0617717.chunk.css",
+    "main.js": "/whereaim-2019-react/static/js/main.6ca62c00.chunk.js",
+    "main.js.map": "/whereaim-2019-react/static/js/main.6ca62c00.chunk.js.map",
+    "runtime-main.js": "/whereaim-2019-react/static/js/runtime-main.9318da6b.js",
+    "runtime-main.js.map": "/whereaim-2019-react/static/js/runtime-main.9318da6b.js.map",
+    "static/css/2.1b0989a7.chunk.css": "/whereaim-2019-react/static/css/2.1b0989a7.chunk.css",
+    "static/js/2.b9bcc424.chunk.js": "/whereaim-2019-react/static/js/2.b9bcc424.chunk.js",
+    "static/js/2.b9bcc424.chunk.js.map": "/whereaim-2019-react/static/js/2.b9bcc424.chunk.js.map",
+    "index.html": "/whereaim-2019-react/index.html",
+    "precache-manifest.c4a11d6f59a36a68245b0fe3d4b8433d.js": "/whereaim-2019-react/precache-manifest.c4a11d6f59a36a68245b0fe3d4b8433d.js",
+    "service-worker.js": "/whereaim-2019-react/service-worker.js",
+    "static/css/2.1b0989a7.chunk.css.map": "/whereaim-2019-react/static/css/2.1b0989a7.chunk.css.map",
+    "static/css/main.c0617717.chunk.css.map": "/whereaim-2019-react/static/css/main.c0617717.chunk.css.map",
+    "static/js/2.b9bcc424.chunk.js.LICENSE": "/whereaim-2019-react/static/js/2.b9bcc424.chunk.js.LICENSE",
+    "static/media/index.css": "/whereaim-2019-react/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.704836c3.js",
-    "static/css/2.e498a0e2.chunk.css",
+    "static/js/runtime-main.9318da6b.js",
+    "static/css/2.1b0989a7.chunk.css",
     "static/js/2.b9bcc424.chunk.js",
     "static/css/main.c0617717.chunk.css",
-    "static/js/main.ced1b255.chunk.js"
+    "static/js/main.6ca62c00.chunk.js"
   ]
 }
